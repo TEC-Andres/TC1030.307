@@ -1,0 +1,13 @@
+situacionProblema/
+build/
+__release__/
+
+*.log
+*.tmp
+*.bak
+*.swp
+*.zip
+*.pyc
+*.pyo
+*.exe
+*.dll
