@@ -1,4 +1,4 @@
-# Actividad Herencia - Programación Orientada a Objetos
+# Actividad Polimorfismo - Programación Orientada a Objetos
 
 ## Build 
 ```bash
