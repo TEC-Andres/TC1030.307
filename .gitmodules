@@ -1,0 +1,4 @@
+[submodule "situacionProblema"]
+	path = situacionProblema
+	url = https://github.com/TEC-Andres/situacionProblemaTC1030.307.git
+	branch = main
